@@ -109,7 +109,7 @@ def hybrid_recommendations(user_id, movie_id, ratings, features, weights=(0.6, 0
 
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/movie-recommender-system.git
+git clone https://github.com/frizzyfreak/movie-recommender-system.git
 
 # Navigate to project directory
 cd movie-recommender-system
