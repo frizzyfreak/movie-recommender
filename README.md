@@ -1,9 +1,6 @@
 
 # **Movie Recommender System** 🎬
 
-![Python](https://img.shields.io/badge/PyrFlow](https://img.shields.io/badge/TensorFlow-2.0%2B-orangg.shields.io/badge/Scikit--learn-Latestg.shields.io/badge/Licens://img.shields.io/badge/Shodology** 🧠
-
-
 This Movie Recommender System uses a hybrid approach that combines content-based filtering, collaborative filtering, and machine learning techniques to provide personalized movie recommendations. The system analyzes user behavior patterns, movie metadata, and ratings to generate relevant suggestions.
 
 ### Key Components:
@@ -12,8 +9,7 @@ This Movie Recommender System uses a hybrid approach that combines content-based
 - **Hybrid Integration**: Combines both approaches for enhanced recommendations
 - **Real-time Processing**: Updates recommendations based on user interactions
 
-## **2. Description** 📝
-
+## **2. Description** 
 
 The Movie Recommender System helps users discover films tailored to their preferences. Instead of browsing through thousands of options, users receive personalized suggestions based on their viewing history, ratings, and similar users' preferences.
 
@@ -23,8 +19,7 @@ The Movie Recommender System helps users discover films tailored to their prefer
 - **Personalized Experience**: Recommendations improve as you interact with the system
 - **Diverse Suggestions**: Explore various genres and styles based on your preferences
 
-## **3. Input / Output** 🔄
-
+## **3. Input / Output** 
 
 ### Input:
 - User ratings of previously watched movies
@@ -39,7 +34,7 @@ The Movie Recommender System helps users discover films tailored to their prefer
 - Where to watch information
 
 ## **4. Live link** 🌐
-Link: www.MovieRecommenderSystem.com
+- To be Updated
 
 ## **5. Screenshot of the Interface** 📱
 
@@ -160,7 +155,7 @@ similar_movies = recommender.recommend_similar_movies("The Godfather", n=5)
 user_recommendations = recommender.recommend_for_user(user_id=42, n=5)
 ```
 
-## **10. Input/Output Examples** 📊
+## **10. Input/Output Examples** 
 
 ### Example 1: Movie-Based Recommendation
 
@@ -207,7 +202,7 @@ Additional metadata is collected from TMDB and IMDB APIs including:
 - Genre classifications
 - Keywords and tags
 
-## **12. Evaluation Metrics** 📏
+## **12. Evaluation Metrics** 
 
 The system's performance is evaluated using multiple metrics:
 
@@ -254,6 +249,7 @@ movie-recommender-system/
 
 - [ ] Implement deep learning-based recommendation models
 - [ ] Add real-time recommendation capabilities
+- [ ] Add real-time Hosting Environment
 - [ ] Develop browser extension for recommendations on streaming platforms
 - [ ] Incorporate user feedback loop to improve recommendations over time
 - [ ] Add multi-language support
@@ -267,11 +263,11 @@ movie-recommender-system/
 
 ## **16. License** 📜
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License.
 
 ---
 
-👨‍💻 Created with ❤️ by [Your Name]
+👨‍💻 Created with ❤️ by Hemant Dubey
 
 ---
-Answer from Perplexity: pplx.ai/share
+
