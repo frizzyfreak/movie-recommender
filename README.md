@@ -37,7 +37,7 @@ The Movie Recommender System helps users discover films tailored to their prefer
 - To be Updated
 
 ## **5. Screenshot of the Interface** 📱
-
+![1734781052239](https://github.com/user-attachments/assets/ac7ffdb7-5948-48e6-a55b-2b5451ad03c6)
 
 ## **6. Features** ✨
 
