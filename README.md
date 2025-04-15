@@ -3,7 +3,7 @@
 
 This Movie Recommender System uses a hybrid approach that combines content-based filtering, collaborative filtering, and machine learning techniques to provide personalized movie recommendations. The system analyzes user behavior patterns, movie metadata, and ratings to generate relevant suggestions.
 
-### Key Components:
+### **1. Key Components:**
 - **Content-based Filtering**: Analyzes movie attributes (genre, cast, director, etc.)
 - **Collaborative Filtering**: Finds patterns among similar users and movies
 - **Hybrid Integration**: Combines both approaches for enhanced recommendations
