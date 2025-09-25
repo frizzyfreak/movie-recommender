@@ -2,7 +2,7 @@
 
 Movie Recommender System is the python Based Project To Create Content Based Recommender System using TMDB 5000 movie dataset from kaggle
 
-Link: https://u-rex13-movie-recommender-system-app-2ap1dd.streamlit.app/
+Link: https://frizzymovierecommender.streamlit.app/
 
 * * *
 
